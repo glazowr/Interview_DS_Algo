@@ -252,5 +252,10 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid.cpp"> Get Biggest Three Rhombus Sums in a Grid. (Leetcode - 1878)</a>
 				</td>
 			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.cpp"> Count Submatrices with Top-Left Element and Sum Less Than k (Leetcode - 3070)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
