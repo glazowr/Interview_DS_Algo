@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also   */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=YEF2r0XEpTo
     Company Tags                : will update later
     Leetcode Link               : https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y
     Same as Leetcode 3070       : https://www.youtube.com/watch?v=sWNfDG1kyrA
