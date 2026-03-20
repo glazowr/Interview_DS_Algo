@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also    */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=XCLN0RgwH0E
     Company Tags                : Flipkart, Morgan Stanley, Amazon, Microsoft, Snapdeal, Oracle, PayU, Visa, Directi, GreyOrange, Mobicip, NPCI
     Problem Link                : https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 */
