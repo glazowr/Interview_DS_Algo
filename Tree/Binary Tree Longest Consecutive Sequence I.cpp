@@ -1,6 +1,7 @@
 /*
     Company Tags  : Google, Facebook, Amazon, NetEase
     Leetcode Link : https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+    gfg: https://www.geeksforgeeks.org/problems/longest-consecutive-sequence-in-binary-tree/1
 */
 
 class Solution {
